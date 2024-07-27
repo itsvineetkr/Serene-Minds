@@ -58,6 +58,7 @@ ul li a{
 
 .nav-dropdown .nav-title{
     display: none;
+    font-size: 1.2em;
 }
 
 .dropdown {
